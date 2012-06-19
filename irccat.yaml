@@ -1,0 +1,6 @@
+---
+:irccathost: 'irccat.puppetlabs.net'
+:githuburl: 'https://github.com/puppetlabs/topsecret-puppet-codes'
+:dashboard: 'https://dashboard01.prod01.pdx.int.puppetlabs.net/'
+:ignore_hosts:
+- scary.testing.host
